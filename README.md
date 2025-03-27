@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 Étudiant en deuxième année d'un BUT MMI (métiers du multimédia et de l'internet)<br>💻 Développeur Front End<br>🔍 Actuellement à la recherche d'un stage de 2 mois ou plus.
+📖 Étudiant en troisième année d'un BUT MMI (métiers du multimédia et de l'internet)<br>💻 Développeur Front End<br>🔍 Actuellement à la recherche d'une alternance pour intégrer l'école, ESGI Paris dans la filière ingénierie du Web.
 
 
 ## 🌐 Socials:

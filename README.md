@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Développeur Full stack<br>🔍 Actuellement détenteur d'un bac + 3, je suis à la recherche d'une alternance pour faire mon master à l"ESGI Paris dans la filière ingénierie du Web.<br>📖 Mon portfolio : https://www.sacha-merletti.xyz/
+💻 Développeur Full stack<br>🔍 Actuellement titulaire d’un bac+3, je recherche une alternance afin de préparer un master à l’ESGI Paris, filière ingénierie du web.<br>📖 Mon portfolio : https://www.sacha-merletti.xyz/
 
 
 ## 🌐 Socials:

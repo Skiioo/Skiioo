@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 Développeur Full stack<br>📖 Mon portfolio : https://www.sacha-merletti.xyz/
 
 
